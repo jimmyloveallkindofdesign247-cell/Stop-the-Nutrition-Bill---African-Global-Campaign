@@ -1,0 +1,6 @@
+{
+  "name": "Stop the Nutrition Bill - African Global Campaign",
+  "description": "Global advocacy campaign against the restrictive African nutrition bills including Nigeria's HB 2659. Defending food sovereignty, traditional medicine, and health freedom across Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
